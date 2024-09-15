@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/strided-base-strided2object": "github:stdlib-js/strided-base-strided2object#main",
     "@stdlib/types": "^0.4.1",
-    "@stdlib/wasm-base-dtype2wasm": "github:stdlib-js/wasm-base-dtype2wasm#main"
+    "@stdlib/wasm-base-dtype2wasm": "github:stdlib-js/wasm-base-dtype2wasm#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-zeros": "^0.2.2",
