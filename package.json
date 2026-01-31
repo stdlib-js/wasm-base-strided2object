@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/wasm-base-strided2object",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a strided array and associated metadata to an object likely to have the same \"shape\".",
   "license": "Apache-2.0",
   "author": {
@@ -39,14 +39,14 @@
   "dependencies": {
     "@stdlib/strided-base-strided2object": "github:stdlib-js/strided-base-strided2object#main",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/wasm-base-dtype2wasm": "github:stdlib-js/wasm-base-dtype2wasm#main"
+    "@stdlib/wasm-base-dtype2wasm": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/array-base-zeros": "^0.2.2",
     "@stdlib/array-complex64": "^0.3.0",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-is-collection": "^0.2.2",
-    "@stdlib/complex-float32-ctor": "^0.0.2",
+    "@stdlib/complex-float32-ctor": "^0.1.0",
     "@stdlib/complex-float32-imag": "^0.1.1",
     "@stdlib/complex-float32-real": "^0.1.1",
     "@stdlib/string-format": "^0.2.2",
@@ -89,7 +89,6 @@
     "webassembly",
     "wasm"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
