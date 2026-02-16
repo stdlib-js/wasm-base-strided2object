@@ -37,13 +37,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/strided-base-strided2object": "^0.1.0",
+    "@stdlib/strided-base-strided2object": "^0.1.1",
     "@stdlib/types": "^0.4.3",
     "@stdlib/wasm-base-dtype2wasm": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/array-base-zeros": "^0.2.3",
-    "@stdlib/array-complex64": "^0.3.1",
+    "@stdlib/array-complex64": "^0.3.2",
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/assert-is-collection": "^0.2.3",
     "@stdlib/complex-float32-ctor": "^0.1.1",
